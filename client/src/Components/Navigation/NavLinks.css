@@ -1,0 +1,25 @@
+.nav-list{
+    list-style: none;
+    float: right;
+}
+.nav-list li{
+    display: inline;
+}
+.nav-item{
+    color: #fff;
+    margin-left: 35px;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.nav-item:hover,
+.nav-item:active{
+    color: #FF721B;
+}
+
+/* Mobile Responsive Styles */
+@media(max-width:500px){
+   .nav-list{
+       display: none;
+   } 
+}

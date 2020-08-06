@@ -1,0 +1,50 @@
+/* .currency-btn{
+    background-color: #2E3D66!important;
+    height: 100%!important;
+    color: #fff;
+    border: 0;
+    padding: 0!important;
+}
+.currency-data{
+    text-align: left;
+    font-size: 18px;
+}
+.angle-icon{
+    text-align: right;
+    font-size: 16px;
+}
+
+.currency-list__wrapper{
+    color: #2E3D66!important;
+    left: -120px!important;
+    width: 100%!important;
+    height: 300px;
+    outline: none!important;
+} */
+
+.select-btn{
+    background-color: #2e3d66!important;
+    color: #fff!important; 
+    width: 200px!important;
+    height: 70px!important;
+    font-size: 18px!important;
+    padding: 0!important;
+}
+.select-btn span{
+    color: #fff!important; 
+    padding: 0 5px!important;
+    color: #252525;
+}
+.select-dropdown{
+    width: 200px!important;
+}
+
+
+/* Mobile Responsive Styles */
+
+@media(max-width:500px){
+    .currency-list__wrapper{
+       left: -35px!important;
+        
+    }
+}

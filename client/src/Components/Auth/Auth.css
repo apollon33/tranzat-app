@@ -1,0 +1,11 @@
+.auth-wrapper{
+   
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+.content-box{
+    height: 100vh;
+    background-color: #2E3D66;
+    color: #fff;
+}

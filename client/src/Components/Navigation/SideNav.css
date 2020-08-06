@@ -1,0 +1,50 @@
+.side-nav__drawer{
+    background-color: #2E3D66!important;
+    
+}
+
+.side-nav__btn{
+    background-color: #2E3D66!important;
+    color: #fff;
+    border: 1px solid #ffffff;
+    font-size: 25px!important;
+}
+
+.side-nav__list{
+    margin-top: 60px;
+    text-align: center;
+    list-style: none;
+    
+}
+.side-nav__list li{
+    padding-bottom: 20px;
+    margin: 20px 5px;
+    border-bottom: 1px solid #1e2a4b;
+}
+.side-nav__item{
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400!important;
+    color: #fff;
+    text-decoration: none;
+}
+.side-nav__item:hover,
+.side-nav__item:focus{
+    color: #FF721B!important;
+}
+.side-nav__auth{
+    margin-top: 60px;
+}
+.side-nav__auth__btn{
+    width: 100%;
+    height: 55px!important;
+    background-color: #FF721B!important;
+    color: #fff;
+    font-size: 16px!important;
+    font-weight: 400!important;
+    border: none;
+    border-radius: 15px;
+    margin: 15px 0px;
+    padding: 10px;
+}
